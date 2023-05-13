@@ -51,14 +51,15 @@
 
 ## Screenshots
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://i.imgur.com/PzC5ZLa.png)  |  ![](https://i.imgur.com/OQ2F5P7.png)
+|  |  |
+| ------ |-------------|
+| ![Home](https://i.imgur.com/PzC5ZLa.png) | ![Details](https://i.imgur.com/OQ2F5P7.png) |
 
 ## Contact
 If you need any help, you can get in touch with me at [thejufo@gmail.com](thejufo@gmail.com)
 
 ## License
+
 ```
 MIT License
 
