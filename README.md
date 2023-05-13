@@ -2,13 +2,12 @@
 
 # Ricksy Flutter
 
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Github Followers](https://img.shields.io/github/followers/PatilShreyas?label=Follow&style=social)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)]()
+![Github Followers](https://img.shields.io/github/followers/thejufo?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/thejufo/Ricksy-Flutter?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/thejufo/Ricksy-Flutter?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/thejufo/Ricksy-Flutter?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/thejufo?label=Follow&style=social)
-
 
 **Ricksy** is a sample Rick and Morty API Flutter App 📱 built to demonstrate the use of *Modern Flutter development* tools. Dedicated to all Flutter Developers with ❤️.
 
