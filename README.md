@@ -10,11 +10,12 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/thejufo?label=Follow&style=social)
 
 
-**Foodium** is a sample Rick and Morty API Flutter App 📱 built to demonstrate use of *Modern Flutter development* tools. Dedicated to all Flutter Developers with ❤️.
+**Ricksy** is a sample Rick and Morty API Flutter App 📱 built to demonstrate the use of *Modern Flutter development* tools. Dedicated to all Flutter Developers with ❤️.
 
-***You can Install and test latest Foodium app from below 👇***
+***You can Install and test latest Ricksy app apk from below 👇***
 
-[![Foodium App](https://img.shields.io/badge/Ricksy-Flutter-red.svg?style=for-the-badge&logo=flutter)](https://github.com/thejufo/Ricksy-Flutter/releases/latest/download/app.apk)
+
+[![Foodium App](https://img.shields.io/badge/Ricksy-Flutter-red.svg?style=for-the-badge&logo=flutter)](https://github.com/thejufo/Ricksy-Flutter/releases/app.apk)
 
 
 ## Built With 🛠
@@ -39,7 +40,7 @@
     │   └─ details         # Character Details Screen
     └── utils              # Utility Classes
 
-## Features
+## Done
 - List of characters
 - Character detail
 
@@ -55,9 +56,7 @@ Solarized dark             |  Solarized Ocean
 ![](https://i.imgur.com/PzC5ZLa.png)  |  ![](https://i.imgur.com/OQ2F5P7.png)
 
 ## Contact
-If you need any help, you can connect with me.
-
-eMail me:- [thejufo@gmail.com](thejufo@gmail.com)
+If you need any help, you can get in touch with me at [thejufo@gmail.com](thejufo@gmail.com)
 
 ## License
 ```
