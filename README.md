@@ -15,7 +15,7 @@
 ***You can Install and test latest Ricksy app apk from below 👇***
 
 
-[![Foodium App](https://img.shields.io/badge/Ricksy-Flutter-red.svg?style=for-the-badge&logo=flutter)](https://github.com/thejufo/Ricksy-Flutter/releases/app.apk)
+[![Foodium App](https://img.shields.io/badge/Ricksy-Flutter-red.svg?style=for-the-badge&logo=flutter)](https://github.com/thejufo/Ricksy-Flutter/releases/)
 
 
 ## Built With 🛠
@@ -32,7 +32,7 @@
 # Package Structure
 
     com.thejufo.ricksy_flutter    # Root Package
-    .
+
     ├── api                # For data handling.
     ├── models             # Model classes
     ├── ui                 # UI/View layer
