@@ -1,4 +1,4 @@
-![Ricksy Flutter](https://i.imgur.com/X3ECxgr.png)
+![Ricksy Flutter](https://i.imgur.com/wyZRBvl.png)
 
 # Ricksy Flutter
 
@@ -52,7 +52,7 @@
 
 |  |  |
 | ------ |-------------|
-| ![Home](https://i.imgur.com/PzC5ZLa.png) | ![Details](https://i.imgur.com/OQ2F5P7.png) |
+| ![Home](https://i.imgur.com/BZ1tn29.png) | ![Details](https://i.imgur.com/Xv86je8.png) |
 
 ## Contact
 If you need any help, you can get in touch with me at [thejufo@gmail.com](thejufo@gmail.com)
