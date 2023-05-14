@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:ricksy_flutter/api/api_service.dart';
 
-import 'ui/home.dart';
+import 'ui/home/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +18,10 @@ class MyApp extends StatelessWidget {
       create: (_) => ApiService(),
       child: MaterialApp(
         title: 'Ricksy',
-        theme: ThemeData(primarySwatch: Colors.blue),
+        theme: ThemeData(
+          useMaterial3: true,
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue)
+        ),
         debugShowCheckedModeBanner: false,
         home: const HomeScreen(),
       ),
