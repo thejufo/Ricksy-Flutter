@@ -62,6 +62,15 @@ class ApiService {
           error: response.reasonPhrase,
         );
       } else {
+        if (character.episodes.length == 1) {
+          final Map data = jsonDecode(response.body);
+          final List<Episode> episodes = [Episode.fromJson(data)];
+
+          return DataState(
+            loading: false,
+            data: episodes,
+          );
+        }
         final List data = jsonDecode(response.body);
         final List<Episode> episodes = data.map(Episode.fromJson).toList();
 
